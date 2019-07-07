@@ -48,7 +48,7 @@
     "ava": "^1.0.1",
     "babel-plugin-set-display-name": "^1.0.2",
     "chalk": "^2.4.1",
-    "chokidar": "^2.0.4",
+    "chokidar": "^3.0.2",
     "codecov": "^3.1.0",
     "connect": "^3.6.6",
     "cross-env": "^5.2.0",
